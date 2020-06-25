@@ -33,7 +33,7 @@ ul, li {
 	transition: all 0.25s ease 0s;
 }
 #Header .logo a img {
-	width: 150px;
+	width: 200px;
 }
 #Header .menu-wrap {
 	display: inline-block;
